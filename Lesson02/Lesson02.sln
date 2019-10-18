@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MyFirstSharpApp", "MyFirstSharpApp\MyFirstSharpApp.fsproj", "{201606A2-71A5-479B-B57F-8399B0C9E906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201606A2-71A5-479B-B57F-8399B0C9E906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201606A2-71A5-479B-B57F-8399B0C9E906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201606A2-71A5-479B-B57F-8399B0C9E906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201606A2-71A5-479B-B57F-8399B0C9E906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
