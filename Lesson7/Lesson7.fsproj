@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="7.2.fsx" />
+        <None Include="7.2.4.fsx" />
+        <None Include="7.3.fsx" />
+    </ItemGroup>
+
+</Project>
